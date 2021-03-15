@@ -1,8 +1,8 @@
 ## Ideapad 330 - i5 (8th generation)
 
-* OpenCore
+### OpenCore
 
 
-* Not working:
+#### Not working:
 - wifi
 - trackpad
